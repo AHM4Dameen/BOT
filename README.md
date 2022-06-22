@@ -1,15 +1,15 @@
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="">
+    <a href="https://git.io/J0hKr">
         <img
-        src="https://github.com/account"
+        src=""
             alt="Typing SVG"
         />
     </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://github.com/account"/>
+<img src="blob:https://web.whatsapp.com/5a165feb-74d1-4221-bfe6-f6eab05fca13"/>
 </p>
  <p align="center">
 <a href="#"><img title="ahma4d" src="https://img.shields.io/badge/ahm4d-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
