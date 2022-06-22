@@ -2,7 +2,7 @@
 <p align="center">
     <a href="">
         <img
-        src=""
+        src="https://github.com/account"
             alt="Typing SVG"
         />
     </a>
