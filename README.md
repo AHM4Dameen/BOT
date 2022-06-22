@@ -1,4 +1,4 @@
-BOT #
+<BOT width="100" height="100">
 ## Thanks for Everything 
 ### We will always remember you..
 
