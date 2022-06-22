@@ -1,4 +1,4 @@
- JADUmon💕
+BOT #
 ## Thanks for Everything 
 ### We will always remember you..
 
@@ -67,7 +67,7 @@ the user is responsible.
 ```
 
 <div align="center">
-  <img src="https://www.linkpicture.com/q/IMG-20210803-WA0020.jpg" width="100" height="100">
+  <img src="https://github.com/AHM4Dameen/farhan-dqz/blob/main/WhatsApp%20Image%202022-06-22%20at%208.08.53%20PM.jpeg" width="100" height="100">
   <h1>💕 BOT </h1>
 </div>
 <p align="center">
