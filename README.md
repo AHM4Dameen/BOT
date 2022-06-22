@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="blob:https://web.whatsapp.com/5a165feb-74d1-4221-bfe6-f6eab05fca13"/>
+<img src="https://www.linkpicture.com/view.php?img=LPic62b33304e0a891563013505"/>
 </p>
  <p align="center">
 <a href="#"><img title="ahma4d" src="https://img.shields.io/badge/ahm4d-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
