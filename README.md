@@ -68,7 +68,7 @@ the user is responsible.
 
 <div align="center">
   <img src="https://www.linkpicture.com/q/IMG-20210803-WA0020.jpg" width="100" height="100">
-  <h1>💕 JADUmon </h1>
+  <h1>💕 BOT </h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
